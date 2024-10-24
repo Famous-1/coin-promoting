@@ -21,5 +21,5 @@ npm start
 ```
 
 Open `localhost:3000` to access the application!😎
-
+Thanks.
 
