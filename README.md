@@ -1,5 +1,5 @@
 
-## Running VotingDapp Locally👨‍💻
+## Running coin-promoting Locally👨‍💻
 
 Clone Repo:
 
