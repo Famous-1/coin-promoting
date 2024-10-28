@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "cointracker",
   "version": "1.2.1",
   "description": "Coin Tracking Dapp",
